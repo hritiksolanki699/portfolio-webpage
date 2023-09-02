@@ -103,3 +103,86 @@ a:hover {
 #about p {
     margin-bottom: 10px; 
 }
+
+/* Style for the Projects section */
+#projects {
+    text-align: center;
+}
+
+/* Style for individual project cards */
+.project-card {
+    background-color: #fff; /* Card background color */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px;
+    max-width: 300px; /* Adjust the card width as needed */
+    display: inline-block;
+    text-align: left;
+}
+
+/* Style for project images */
+.project-card img {
+    max-width: 100%; /* Ensure images don't exceed the card width */
+    border-radius: 8px; /* Rounded corners for the image */
+}
+
+/* Style for project titles */
+.project-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Style for project descriptions */
+.project-card p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Style for project links */
+.project-links {
+    margin-top: 20px;
+}
+
+.project-links a {
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 10px;
+    color: #007bff; /* Link color */
+}
+
+.project-links a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+.note {
+    background-color: #f7f7f7; /* Background color for the note */
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the Note Paragraphs */
+.note p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Style for the Note Heading */
+.note h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff; /* Heading color */
+}
+
+
+
+
+
+

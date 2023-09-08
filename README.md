@@ -1,6 +1,6 @@
 # Personal Webpage
 
-Welcome to my personal webpage repository! This repository hosts the source code for my personal website, which you can access [here](https://hritiksolanki699.github.io/personal-webpage/).
+Welcome to my personal webpage repository! This repository hosts the source code for my personal website, which you can access [here](https://hritiksolanki699.github.io/portfolio-webpage/).
 
 ## About Me
 
@@ -15,7 +15,7 @@ I am Hritik Solanki, a passionate Full Stack Web Developer with expertise in the
 
 ## How to Use
 
-1. Visit the [website](https://hritiksolanki699.github.io/personal-webpage/) to explore my portfolio.
+1. Visit the [website](https://hritiksolanki699.github.io/portfolio-webpage/) to explore my portfolio.
 2. Navigate through the different sections to learn more about me and my work.
 3. If you have any inquiries or would like to get in touch, you can find my contact information on the website.
 

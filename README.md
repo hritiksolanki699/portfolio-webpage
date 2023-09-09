@@ -20,7 +20,3 @@ I am Hritik Solanki, a passionate Full Stack Web Developer with expertise in the
 3. If you have any inquiries or would like to get in touch, you can find my contact information on the website.
 
 Feel free to explore, and don't hesitate to reach out if you have any questions or opportunities for collaboration!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
